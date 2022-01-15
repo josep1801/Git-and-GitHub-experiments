@@ -3,3 +3,5 @@
 // 2. git merge feature-a
 
 console.log("feature here!")
+
+// random comment to check conflicts
